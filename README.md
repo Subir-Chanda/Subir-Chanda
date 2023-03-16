@@ -1,3 +1,4 @@
+![logo](https://github.com/Subir-Chanda/Subir-Chanda/blob/main/png_20230316_111354_0000.png)
 <h1 align="center">Hi 👋, I'm Subir Chanda</h1>
 <h3 align="center">A passionate coder from India</h3>
 
