@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am funny😉**
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" scr="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left">
 <a href="https://linkedin.com/in/subir chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subir chanda" height="30" width="40" /></a>
 <a href="https://fb.com/subir chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subir chanda" height="30" width="40" /></a>
